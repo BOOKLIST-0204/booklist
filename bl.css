@@ -1,0 +1,13 @@
+:root {
+  --background: #ffffff;
+
+  --main: #c995a2;
+  --second: #e2c3c9;
+
+  --unlock: #5a7fa2;
+
+  --filter: #c995a2;
+  --filter-background: rgba(226, 195, 201, 0.5);
+
+  --hr: #bfc6cc;
+}
